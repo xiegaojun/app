@@ -4,13 +4,13 @@
 
 ## 技术栈
 
-###vue2 + vuex + vue-router + vue-resource + vue-cli3.0 + ES6 + vant + mint-ui
+### vue2 + vuex + vue-router + vue-resource + vue-cli3.0 + ES6 + vant + mint-ui
 
-##后端
+## 后端
 
 ### 后端采用node.js制作，地址：https://github.com/xiegaojun/node
 
-##线上地址
+## 线上地址
 
 ### https://m.xiegaojun.cn
 
